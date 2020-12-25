@@ -238,6 +238,8 @@
 - cririque，评估
 - CRM，客户关系管理（Customer Relationship Management）
 - Cross Domain，跨域
+- Cross-browser ，跨浏览器
+- Cross-platform ，跨平台
 - Cross-Functuinal Requirement，跨功能需求（CFR）<sup>4</sup>
 - CRT，cathode ray tube，阴极射线管
 - cruft，残留
